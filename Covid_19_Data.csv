@@ -1,0 +1,126 @@
+Month,Dollars
+January,244882000000.0
+February,244682000000.0
+March,278497000000.0
+April,266910000000.0
+May,284768000000.0
+June,273339000000.0
+July,280879000000.0
+August,253427000000.0
+September,259601000000.0
+October,285419000000.0
+November,293291000000.0
+December,272102000000.0
+
+Month,Tonnes
+January,20022000.0
+February,25850000.0
+March,28334000.0
+April,24862000.0
+May,26527000.0
+June,27495000.0
+July,28326000.0
+August,25285000.0
+September,24033000.0
+October,28009000.0
+November,28244000.0
+December,25410000.0
+
+Country,Dollars
+All,2315200000000.0
+Australia,107686000000.0
+China,282650000000.0
+East Asia (excluding China),116556000000.0
+European Union (27),26644000000.0
+Japan,23155000000.0
+Total (excluding China),291991000000.0
+United Kingdom,21591000000.0
+United States,52320000000.0
+
+Country,Tonnes
+All,185349000.0
+China,119573000.0
+East Asia (excluding China),6137000.0
+United States,1338000.0
+
+Transport,Dollars
+Air,132602000000.0
+All,2436790000000.0
+Sea,668400000000.0
+
+Transport,Tonnes
+All,312397000.0
+
+Weekday,Dollars
+Sunday,309677000000.0
+Monday,566712000000.0
+Tuesday,520469000000.0
+Wednesday,517338000000.0
+Thursday,532286000000.0
+Friday,533090000000.0
+Saturday,258225000000.0
+
+Weekday,Tonnes
+Sunday,43239000.0
+Monday,48527000.0
+Tuesday,42585000.0
+Wednesday,44998000.0
+Thursday,43047000.0
+Friday,47760000.0
+Saturday,42241000.0
+
+Commodity,Dollars
+All,2386670000000.0
+Electrical machinery and equip,51554000000.0
+"Fish, crustaceans, and molluscs",15445000000.0
+Fruit,22197000000.0
+"Logs, wood, and wood articles",50381000000.0
+Meat and edible offal,78512000000.0
+Mechanical machinery and equip,72603000000.0
+"Milk powder, butter, and cheese",157284000000.0
+Non-food manufactured goods,403154000000.0
+
+Commodity,Tonnes
+"Fish, crustaceans, and molluscs",1832000.0
+"Logs, wood, and wood articles",264402000.0
+Meat and edible offal,10372000.0
+"Milk powder, butter, and cheese",35791000.0
+
+Month,Dollars
+November,293319000000.0
+October,285447000000.0
+May,284795000000.0
+July,280907000000.0
+March,278525000000.0
+
+Country,Commodity,Value
+All,All,1603470000000.0
+All,Non-food manufactured goods,403154000000.0
+All,"Milk powder, butter, and cheese",98779100000.0
+All,Mechanical machinery and equip,57567000000.0
+All,Meat and edible offal,51212800000.0
+Australia,All,107686000000.0
+China,All,182406000000.0
+China,"Milk powder, butter, and cheese",31223500000.0
+China,"Logs, wood, and wood articles",18102800000.0
+China,Electrical machinery and equip,16478000000.0
+China,Meat and edible offal,15465300000.0
+East Asia (excluding China),All,89245000000.0
+East Asia (excluding China),"Milk powder, butter, and cheese",27317100000.0
+European Union (27),All,26644000000.0
+Japan,All,23155000000.0
+Total (excluding China),All,291991000000.0
+United Kingdom,All,21591000000.0
+United States,All,40477000000.0
+United States,Meat and edible offal,11844300000.0
+
+Commodity,Date,Value
+All,26/11/2021,2227000000.0
+Electrical machinery and equip,06/11/2020,96000000.0
+"Fish, crustaceans, and molluscs",25/09/2017,21003000.0
+Fruit,03/05/2020,63000000.0
+"Logs, wood, and wood articles",30/07/2021,97412000.0
+Meat and edible offal,21/05/2017,99014000.0
+Mechanical machinery and equip,02/10/2018,143000000.0
+"Milk powder, butter, and cheese",04/12/2019,419087000.0
+Non-food manufactured goods,26/06/2020,565000000.0

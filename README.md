@@ -1,1 +1,1 @@
-# Python-Data-Analytics-Project-2022-2023
+In this Python-driven project, we harnessed the power of data manipulation and analysis. By extracting valuable insights from a CSV file that was about the covid-19 effects in the global market , we crafted insightful visualizations, turning raw data into meaningful graphs. The results were then elegantly stored in both CSV and SQL database formats, ensuring lasting accessibility and usability.
